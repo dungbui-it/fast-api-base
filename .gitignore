@@ -1,0 +1,12 @@
+# Bỏ qua thư mục Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.env
+*.env
+__pycache__/
+*.pyc
+*.log
+.vscode/
+.DS_Store
+*.tfvars
